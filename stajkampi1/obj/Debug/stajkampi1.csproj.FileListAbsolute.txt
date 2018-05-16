@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\stajkampi1\stajkampi1\obj\Debug\stajkampi1.csprojResolveAssemblyReference.cache
+C:\Users\ahmet\source\repos\stajkampi1\stajkampi1\obj\Debug\stajkampi1.Form1.resources
+C:\Users\ahmet\source\repos\stajkampi1\stajkampi1\obj\Debug\stajkampi1.Properties.Resources.resources
+C:\Users\ahmet\source\repos\stajkampi1\stajkampi1\obj\Debug\stajkampi1.csproj.GenerateResource.Cache
+C:\Users\ahmet\source\repos\stajkampi1\stajkampi1\obj\Debug\stajkampi1.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\stajkampi1\stajkampi1\bin\Debug\stajkampi1.exe.config
+C:\Users\ahmet\source\repos\stajkampi1\stajkampi1\bin\Debug\stajkampi1.exe
+C:\Users\ahmet\source\repos\stajkampi1\stajkampi1\bin\Debug\stajkampi1.pdb
+C:\Users\ahmet\source\repos\stajkampi1\stajkampi1\obj\Debug\stajkampi1.exe
+C:\Users\ahmet\source\repos\stajkampi1\stajkampi1\obj\Debug\stajkampi1.pdb
